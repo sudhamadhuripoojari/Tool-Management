@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background-image: url("https://images.pexels.com/photos/1409215/pexels-photo-1409215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  font-family: 'Roboto', sans-serif;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width:100vw;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+}
+
+.text-center {
+  color: white;
+}
+.navbar-style{
+  color: #fff;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.btn {
+  margin-right: 10px;
+  padding: 20px, 30px;
+}
+
+.disabled-text {
+  color: rgb(242, 59, 59)!important;
+  opacity: 0.9; 
+  cursor: not-allowed;
+
+}
+
+th{
+  color: #000;
+}
+.table {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+}
+
+.table th {
+  background-color: #f8f9fa;
+  font-size: 20px;
+  height: 40px;
+  text-align: center;
+}
+
+.table td {
+  background-color: white;
+}
+
+.btn-primary {
+  background-color: black;
+  border-color: black;
+}
+
+.btn-primary:hover {
+  background-color: #333 !important;
+  border-color: #333;
+}
+
+.card{
+  background: #FFD895 !important;
+}
+
+.navHeader{
+  width:100vw;
+}
+
+.navbar-brand{
+  font-size: 40px !important;
+  font-family: 'Roboto', sans-serif;
+  height: 50px;
+}
+
+
+
+
