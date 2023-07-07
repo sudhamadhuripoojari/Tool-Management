@@ -5,12 +5,14 @@ import FooterComponent from './components/FooterComponent';
 import HeaderComponent from './components/HeaderComponent';
 import ListToolComponent from './components/ListToolComponent';
 import AddToolComponent from './components/AddToolComponent';
+import UnsplashImages from './components/UnsplashImages';
 
 const App: React.FC = () => {
 
   return (
     <>
     <Router>
+      <UnsplashImages />
       <HeaderComponent />
       <div>
         <Routes>

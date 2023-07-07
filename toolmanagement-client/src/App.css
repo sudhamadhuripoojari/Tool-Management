@@ -84,7 +84,6 @@ th{
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.03em;
- 
 }
 
 .table td {
@@ -92,13 +91,13 @@ th{
 }
 
 .btn-primary {
-  background-color: black;
-  border-color: black;
+  background-color: #F8820F !important;
+  border: none!important;
 }
 
 .btn-primary:hover {
-  background-color: #333 !important;
-  border-color: #333;
+  background-color: #858181 !important;
+  color:#000 !important;
 }
 
 .card{
