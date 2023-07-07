@@ -14,4 +14,4 @@ Commitment to social responsibility and community
 
 **Technologies Used**
 -  Backend: Java, Spring Framework, PostgreSQL
--  Frontend: React, TypeScript, CSS
+-  Frontend: React, TypeScript, CSS, Bootstrap
