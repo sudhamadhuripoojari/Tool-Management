@@ -1,7 +1,7 @@
 # Project: Tool-Management sharing platform :hammer_and_wrench: :carpentry_saw:
 
 **Description:** 
-Develop an online platform that facilitates resources-sharing within neighbours or colleagues. 
+This platform facilitates resources-sharing within neighbours or colleagues. 
 Users can offer and request items or services like tools, household appliances. 
 The platform can connect neighbours, promote community engagement, and reduce unnecessary purchases .
 
