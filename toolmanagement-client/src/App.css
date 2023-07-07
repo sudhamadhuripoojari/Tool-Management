@@ -6,8 +6,10 @@
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
-body{
-  background-image: url("https://images.pexels.com/photos/1409215/pexels-photo-1409215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+body {
+  background-image: url('https://source.unsplash.com/featured/?tools');
+  background-size: cover;
+  background-position: center;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -58,10 +60,9 @@ body{
 }
 
 .disabled-text {
-  color: rgb(242, 59, 59)!important;
+  color: rgb(184, 179, 179)!important;
   opacity: 0.9; 
   cursor: not-allowed;
-
 }
 
 th{
@@ -94,7 +95,8 @@ th{
 }
 
 .card{
-  background: #FFD895 !important;
+  background: #95A5A6 !important;
+  box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
 }
 
 .navHeader{
