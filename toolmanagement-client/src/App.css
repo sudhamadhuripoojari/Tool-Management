@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
 
 #root {
-  max-width: 1280px;
   margin: 0 auto;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -16,16 +15,20 @@ body {
 .footer {
   position: absolute;
   bottom: 0;
-  width:100vw;
-  height: 50px;
+  width:1600px;
+  height: 30px;
   background-color: black;
   text-align: center;
   color: white;
   font-size: 16px;
+  margin-left:0;
+  padding-left: 0;
 }
 
 .text-center {
   color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 .navbar-style{
   color: #fff;
@@ -37,8 +40,9 @@ body {
 
 .form-label {
   display: block;
-  font-weight: bold;
   margin-bottom: 5px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 
 .form-control {
@@ -74,10 +78,13 @@ th{
 }
 
 .table th {
-  background-color: #f8f9fa;
+  background-color: #95A5A6;
   font-size: 20px;
   height: 40px;
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+ 
 }
 
 .table td {
@@ -104,9 +111,11 @@ th{
 }
 
 .navbar-brand{
-  font-size: 40px !important;
-  font-family: 'Roboto', sans-serif;
+  font-size: 44px !important;
+  font-family: 'Roboto', sans-serif !important;
   height: 50px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 
 
